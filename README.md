@@ -6,6 +6,7 @@
 
 - **State**: production
 - **Production**:
+  - **URL**: https://palest.blue/
   - **URL**: https://palest-blue.work.damonzucconi.com/
   - **URL**: https://damonzucconi-palest-blue.netlify.app/
 - **Host**: https://app.netlify.com/sites/damonzucconi-palest-blue/overview
